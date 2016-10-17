@@ -1,4 +1,4 @@
 # hello-world
-First git-hub repository to get started
-learning about branches
+First git-hub repository to get started.
+Learning about branches
 and such
